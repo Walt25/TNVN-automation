@@ -14,7 +14,10 @@
     "@wdio/cli": "^8.38.2",
     "appium": "^2.0.1",
     "axios": "^1.7.2",
+    "csv-parser": "^3.0.0",
+    "fs": "^0.0.1-security",
     "jsdom": "^24.1.0",
+    "path": "^0.12.7",
     "qs": "^6.12.1"
   },
   "devDependencies": {
